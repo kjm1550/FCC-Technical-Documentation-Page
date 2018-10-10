@@ -133,6 +133,12 @@ margin: 0 auto 20px auto;
 .flex-end-align-items {
   align-items: flex-end;
 }
+.flex-grow1 {
+  flex-grow: 1;
+}
+.flex-grow2 {
+  flex-grow: 2;
+}
 
 @media only screen and (max-width: 700px) {
   .main-section {
