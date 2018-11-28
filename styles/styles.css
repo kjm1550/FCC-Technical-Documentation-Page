@@ -139,6 +139,24 @@ margin: 0 auto 20px auto;
 .flex-grow2 {
   flex-grow: 2;
 }
+.flex-shrink1 {
+  flex-shrink: 1;
+}
+.flex-shrink2 {
+  flex-shrink: 2;
+}
+.flex-basis {
+  flex-basis: 75px;
+}
+.flex {
+  flex: 2 1 auto;
+}
+.align-self-flex-end {
+  align-self: flex-end;
+}
+.align-self-center {
+  align-self: center;
+}
 
 @media only screen and (max-width: 700px) {
   .main-section {
